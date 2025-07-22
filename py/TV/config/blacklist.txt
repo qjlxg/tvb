@@ -1061,3 +1061,4 @@ livepull.myntv.cn
 101.66.195.233
 101.66.195.38
 tc-tct.douyucdn2.cn
+114.254.82.51
