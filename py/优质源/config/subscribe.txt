@@ -1,1 +1,4 @@
+https://raw.githubusercontent.com/qjlxg/my/refs/heads/main/output/uncategorized_iptv.txt
 https://raw.githubusercontent.com/qjlxg/vt/refs/heads/main/output/iptv_list.txt
+https://raw.githubusercontent.com/qjlxg/vt/refs/heads/main/output/uncategorized_iptv.txt
+https://raw.githubusercontent.com/qjlxg/my/refs/heads/main/output/iptv_list.txt
