@@ -2182,3 +2182,47 @@ Al Jazeera English|半岛英语|  # 新增：半岛英语频道
 Discovery Channel|发现频道|  # 新增：发现频道
 National Geographic|国家地理频道|  # 新增：国家地理频道
 
+☘️体育赛事,#genre#
+ESPN|ESPN体育|  # ESPN体育频道
+Eurosport|欧洲体育|  # 欧洲体育频道
+beIN Sports|beIN体育|  # beIN体育频道
+NBA TV|NBA电视|  # NBA专业频道
+Fox Sports|福克斯体育|  # 新增：福克斯体育频道
+Sky Sports|天空体育|  # 新增：天空体育频道
+DAZN|DAZN体育|  # 新增：DAZN体育流媒体频道
+TNT Sports|TNT体育|  # 新增：TNT体育频道
+
+☘️音乐频道,#genre#  # 新增类别：音乐频道
+MTV|MTV音乐|  # 新增：MTV音乐频道
+VH1|VH1音乐|  # 新增：VH1音乐频道
+CMT|乡村音乐电视|  # 新增：乡村音乐电视台
+K-POP Channel|K-POP音乐|  # 新增：K-POP音乐频道
+Classical Music TV|古典音乐电视|  # 新增：古典音乐频道
+
+☘️生活方式,#genre#  # 新增类别：生活方式
+HGTV|家居与园艺电视|  # 新增：家居与园艺频道
+Food Network|美食频道|  # 新增：美食网络频道
+Travel Channel|旅行频道|  # 新增：旅行频道
+TLC|生活学习频道|  # 新增：TLC生活方式频道
+Fashion TV|时尚电视|  # 新增：时尚电视频道
+
+☘️儿童频道,#genre#  # 新增类别：儿童频道
+Disney Channel|迪士尼频道|  # 新增：迪士尼儿童频道
+Cartoon Network|卡通网络|  # 新增：卡通网络频道
+Nickelodeon|尼克儿童频道|  # 新增：尼克儿童频道
+CBeebies|BBC儿童频道|  # 新增：BBC儿童频道
+BabyTV|婴儿电视|  # 新增：婴儿电视教育频道
+
+☘️新闻频道,#genre#  # 新增类别：新闻频道
+BBC World News|BBC新闻|  # 新增：BBC国际新闻频道
+CNN International|CNN国际|  # 新增：CNN国际新闻频道
+Al Jazeera English|半岛英语|  # 新增：半岛英语新闻频道
+Sky News|天空新闻|  # 新增：天空新闻频道
+France 24|法国24|  # 新增：法国24小时新闻频道
+
+☘️纪录片频道,#genre#  # 新增类别：纪录片频道
+Discovery Channel|发现频道|  # 新增：发现频道
+National Geographic|国家地理频道|  # 新增：国家地理频道
+History Channel|历史频道|  # 新增：历史频道
+Animal Planet|动物星球|  # 新增：动物星球频道
+Smithsonian Channel|史密森尼频道|  # 新增：史密森尼纪录片频道
